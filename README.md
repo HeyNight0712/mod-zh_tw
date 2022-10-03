@@ -7,10 +7,8 @@
 
 語言 language
 
-en_us
-
-zh_cn
-
-zh_tw
+en_us 
+zh_cn 
+zh_tw 
 
 
